@@ -1,0 +1,36 @@
+1. C:\Users\Administrator>node -v
+v14.17.3
+
+or
+
+install node js
+https://nodejs.org/en/download/
+
+2. C:\Users\Administrator>npm -v
+8.10.0
+or
+install npm
+C:\Users\Administrator>npm install -g npm
+
+
+3. install angular
+
+C:\Users\Administrator>npm install -g @angular/cli@latest
+
+
+4.install vscode 
+
+https://code.visualstudio.com/download
+
+5.create angular project
+
+C:\Users\Administrator>ng new university32
+
+6.C:\Users\Administrator>cd university32
+
+7.C:\Users\Administrator\university32>code .
+
+8.In vs code ,in terminal run ur first angular
+
+PS C:\Users\Administrator\university32> ng serve 
+
